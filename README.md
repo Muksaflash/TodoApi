@@ -5,4 +5,5 @@ The program is written on the ASP.NET platform using a controller based on the M
 The database is created using the Entity Framework ORM as in the code first approach.
 Thanks to Swagger technology based on openAPI, there is a graphical interface.
 As we can see, standard CRUD operations are supported.
-![image](https://github.com/Muksaflash/TodoApi/assets/67598186/d20e6eb3-6378-46ac-b89b-0a06dfebb785)
+![image](https://github.com/Muksaflash/TodoApi/assets/67598186/9100f764-f9bf-4af6-b4c2-2beb37c51616)
+
